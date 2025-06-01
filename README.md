@@ -1,6 +1,6 @@
 
-<p align ="center"><h1><b>Priyanshi Sharma</b><br></h1>
-Surat, Gujarat, India<br>
+<p align ="center"><h1><b>Priyanshi Sharma</b><br></h1></p>
+<p align= "center"> Surat, Gujarat, India<br>
 +91 7016403683<br>
 </p>
   <p align ="center">
