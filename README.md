@@ -1,5 +1,5 @@
 <p align="center">
-  ##<b>Priyanshi Sharma</b><br>
+  <h1><b>Priyanshi Sharma</b><br></h1>
   Surat, Gujarat, India<br>
   +91 7016403683<br>
   <a href="mailto:priyanshisharmaworks111@gmail.com">priyanshisharmaworks111@gmail.com</a>
