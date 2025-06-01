@@ -86,4 +86,4 @@ Currently building Jenna, an AI-powered personal desktop assistant, with 8+ plan
 **Machine Learning/AI:** CNN, LSTM, NLP, Tesseract OCR,Generative AI  
 **Tools:** Git, GitHub, VS Code, MATLAB  
 **Additional:** Data Analysis, Financial Modeling, SEO, Content Writing, Social Media Management  
-**Languages:** Hindi, English, Gujarat
+**Languages:** Hindi, English, Gujarati
