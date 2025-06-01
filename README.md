@@ -2,6 +2,8 @@
   <h1><b>Priyanshi Sharma</b><br></h1>
   Surat, Gujarat, India<br>
   +91 7016403683<br>
+  </p>
+  <p align ="center">
   <a href="mailto:priyanshisharmaworks111@gmail.com">priyanshisharmaworks111@gmail.com</a>
   GitHub: <a href="https://github.com/pric-logic">github.com/pric-logic</a>
   LinkedIn: <a href="https://www.linkedin.com/in/priyanshi-sharma--/">linkedin.com/in/priyanshi-sharma--/</a>
