@@ -1,8 +1,9 @@
 
-<p align ="center"><h1 center><b>Priyanshi Sharma</b><br></h1></p>
-<p align= "center"> Surat, Gujarat, India<br>
-+91 7016403683<br>
-</p>
+<div align="center">
+  <h1><b>Priyanshi Sharma</b></h1>
+  Surat, Gujarat, India  
+  +91 7016403683  
+</div>
   <p align ="center">
   <a href="mailto:priyanshisharmaworks111@gmail.com">priyanshisharmaworks111@gmail.com</a>
   GitHub: <a href="https://github.com/pric-logic">github.com/pric-logic</a>
