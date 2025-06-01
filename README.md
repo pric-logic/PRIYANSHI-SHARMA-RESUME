@@ -1,11 +1,11 @@
 <p align="center">
-  <b>Priyanshi Sharma</b><br>
+  ##<b>Priyanshi Sharma</b><br>
   Surat, Gujarat, India<br>
   +91 7016403683<br>
-  <a href="mailto:priyanshisharmaworks111@gmail.com">priyanshisharmaworks111@gmail.com</a><br>
-  GitHub: <a href="https://github.com/pric-logic">github.com/pric-logic</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/priyanshi-sharma--/">linkedin.com/in/priyanshi-sharma--/</a><br>
-  Medium: <a href="http://medium.com/@priyanshisharma1251">medium.com/@priyanshisharma1251</a><br>
+  <a href="mailto:priyanshisharmaworks111@gmail.com">priyanshisharmaworks111@gmail.com</a>
+  GitHub: <a href="https://github.com/pric-logic">github.com/pric-logic</a>
+  LinkedIn: <a href="https://www.linkedin.com/in/priyanshi-sharma--/">linkedin.com/in/priyanshi-sharma--/</a>
+  Medium: <a href="http://medium.com/@priyanshisharma1251">medium.com/@priyanshisharma1251</a>
   Leetcode: <a href="https://leetcode.com/u/PRI_AND_SHE/">leetcode.com/u/PRI_AND_SHE/</a>
 </p>
 
