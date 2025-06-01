@@ -12,12 +12,6 @@
   Leetcode: <a href="https://leetcode.com/u/PRI_AND_SHE/">leetcode.com/u/PRI_AND_SHE/</a>
 </p>
 
-<p style="text-align:center;">
-  <strong>Priyanshi Sharma</strong><br>
-  Surat, Gujarat, India<br>
-  +91 7016403683&nbsp;|&nbsp;priyanshisharmaworks111@gmail.com&nbsp;|&nbsp;<a href="LeetCode">LeetCode</a>&nbsp;|&nbsp;<a href="GitHub">GitHub</a>&nbsp;|&nbsp;<a href="LinkedIn">LinkedIn</a>&nbsp;|&nbsp;<a href="Medium">Medium</a>
-</p>
-
 ---
 
 ## Education
