@@ -1,7 +1,9 @@
-**Priyanshi Sharma**  
+<p align="center">
+
+ **Priyanshi Sharma**  
  Surat, Gujarat, India   \+91 7016403683  [priyanshisharmaworks111@gmail.com](mailto:priyanshisharmaworks111@gmail.com)  
-GitHub: [github.com/pric-logic](https://github.com/pric-logic)  LinkedIn: [linkedin.com/in/priyanshi-sharma--](https://www.linkedin.com/in/priyanshi-sharma--/) Medium: [medium.com/@priyanshisharma1251](http://medium.com/@priyanshisharma1251)   
----
+GitHub: [github.com/pric-logic](https://github.com/pric-logic)  LinkedIn: [linkedin.com/in/priyanshi-sharma--](https://www.linkedin.com/in/priyanshi-sharma--/) Medium: [medium.com/@priyanshisharma1251](http://medium.com/@priyanshisharma1251)   Leetcode:[[https://leetcode.com/u/PRI_AND_SHE/]](https://leetcode.com/u/PRI_AND_SHE/)
+</p>
 
 **Education**  
  **Vellore Institute of Technology, Bhopal**  
