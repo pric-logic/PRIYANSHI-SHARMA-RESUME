@@ -19,7 +19,7 @@ Please download the PDF file from the Repo
 
 **Vellore Institute of Technology, Bhopal**  
 Expected Graduation: May 2026  
-Bachelor of Technology in Computer Science & Engineering, CGPA: 8.61/10
+Bachelor of Technology in Computer Science & Engineering, CGPA: 8.45/10
 
 **Reliance Foundation School, Surat**  
 June 2010 – June 2022  
